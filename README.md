@@ -101,10 +101,9 @@ Comandos aceitos no tópico de comando:
 ├── src/
 │   ├── sketch.ino        # código do ESP32 (C++ / Arduino)
 │   ├── diagram.json      # circuito do Wokwi
-│   └── libraries.txt     # bibliotecas (PubSubClient, OneWire, DallasTemperature)
+│   └── libraries.txt     # bibliotecas
 ├── docs/
-│   └── artigo.docx       # artigo do projeto (modelo Mackenzie, ABNT)
-└── imagens/              # figuras do artigo
+    └── artigo.docx       # artigo do projeto (modelo Mackenzie, ABNT)
 ```
 
 ## Limitações
