@@ -1,6 +1,6 @@
 # Monitor IoT de Qualidade da Água para Consumo Humano
 
-Monitor IoT de qualidade da água com ESP32 (pH, turbidez e temperatura), alertas locais por LED e buzzer e comunicação via MQTT. Projeto alinhado ao ODS 3 (Saúde e Bem-Estar), meta 3.9, desenvolvido para a disciplina de Objetos Inteligentes Conectados (Universidade Presbiteriana Mackenzie).
+Monitor IoT de qualidade da água com ESP32 (pH, turbidez e temperatura), alertas locais por LED e buzzer e comunicação via MQTT. Projeto alinhado ao ODS 3 (Saúde e Bem-Estar), meta 3.9, desenvolvido para a disciplina de Objetos Inteligentes Conectados.
 
 ## Sumário
 
