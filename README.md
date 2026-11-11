@@ -103,7 +103,7 @@ Comandos aceitos no tópico de comando:
 │   ├── diagram.json      # circuito do Wokwi
 │   └── libraries.txt     # bibliotecas
 ├── docs/
-    └── artigo.docx       # artigo do projeto (modelo Mackenzie, ABNT)
+    └── artigo.docx       # artigo do projeto
 ```
 
 ## Limitações
