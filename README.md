@@ -16,8 +16,10 @@ Monitor IoT de qualidade da água com ESP32 (pH, turbidez e temperatura), alerta
 - [Autoria](#autoria)
 
 ## Contexto e objetivo
-A água contaminada transmite doenças como diarreias, hepatite A e cólera. A meta 3.9 do ODS 3 propõe reduzir substancialmente, até 2030, mortes e doenças causadas por produtos químicos perigosos e por contaminação da água, do ar e do solo. No Brasil, o controle da qualidade da água para consumo humano segue a Portaria GM/MS nº 888/2021.
-O objetivo deste projeto é medir pH, turbidez e temperatura da água, sinalizar localmente quando ela estiver fora dos limites de segurança e publicar as medições em um broker MQTT, permitindo acompanhamento e comando remotos.
+A exposição a águas com qualidade comprometida representa sério risco à saúde pública, seja pela presença de contaminantes químicos lixiviados, pela ineficiência dos processos de desinfecção ou pelo lançamento clandestino de efluentes. A Meta 3.9 do ODS 3 estabelece a redução substancial de mortes e doenças decorrentes da contaminação do ar, do solo e da água por poluentes e substâncias perigosas. No Brasil, os padrões de potabilidade para o consumo humano são regidos pela Portaria GM/MS nº 888/2021.
+
+Neste contexto, o objetivo deste projeto é desenvolver um protótipo IoT baseado em ESP32 para o monitoramento contínuo dos parâmetros físico-químicos de pH, turbidez e temperatura da água, que são indicadores primários de eficiência de saneamento. 
+O sistema atua na emissão de alertas (LED e buzzer) em cenários de não conformidade com as faixas de segurança normativas, além de realizar a telemetria dos dados via protocolo MQTT para um broker remoto, viabilizando o acompanhamento à distância e a tomada de decisão preventiva.
 
 ## Como funciona
 > O projeto é desenvolvido e testado no simulador [Wokwi](https://wokwi.com). No Wokwi, os sensores de pH e turbidez são representados por potenciômetros.
