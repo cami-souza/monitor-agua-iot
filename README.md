@@ -87,7 +87,7 @@ Comandos aceitos no tópico de comando:
 |---|---|---|
 | pH | 6,0 a 9,0 | Faixa recomendada de 6,0 a 9,5 pela Portaria GM/MS nº 888/2021, com margem |
 | Turbidez | até 5 NTU | Limite de 5,0 uT na distribuição (Portaria GM/MS nº 888/2021) |
-| Temperatura | até 30 °C | Critério operacional do projeto |
+| Temperatura | 0 a 30 °C | Critério operacional do projeto |
 
 ## Como executar no Wokwi
 
