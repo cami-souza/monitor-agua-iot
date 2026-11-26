@@ -63,7 +63,7 @@ Os terminais de alimentação dos sensores vão a 3V3 e GND; os cátodos dos LED
 
 ## Comunicação MQTT
 
-- Broker: HiveMQ (`www.mqtt-dashboard.com/`, porta `1883`)
+- Broker: HiveMQ (`https://www.hivemq.com/demos/websocket-client/`, porta `1883`)
 - Tópico de dados: `ods3/qualidade_agua/camila_souza_2026/dados`
 - Tópico de comando: `ods3/qualidade_agua/camila_souza_2026/comando`
 
