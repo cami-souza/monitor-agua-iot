@@ -48,7 +48,7 @@ O sistema atua na emissão de alertas (LED e buzzer) em cenários de não confor
 
 No protótipo físico, os módulos de pH e turbidez têm saída de até 5 V e exigem divisor de tensão antes da entrada do ESP32 (3,3 V), além de calibração com soluções de referência.
 
-## Ligações (pinagem)
+## Ligações
 
 | Componente | Pino do ESP32 |
 |---|---|
