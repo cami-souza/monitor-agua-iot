@@ -7,7 +7,7 @@ Monitor IoT de qualidade da água com ESP32 (pH, turbidez e temperatura), alerta
 - [Contexto e objetivo](#contexto-e-objetivo)
 - [Como funciona](#como-funciona)
 - [Componentes](#componentes)
-- [Ligações (pinagem)](#ligações-pinagem)
+- [Ligações](#ligações-pinagem)
 - [Comunicação MQTT](#comunicação-mqtt)
 - [Limites de segurança](#limites-de-segurança)
 - [Como executar no Wokwi](#como-executar-no-wokwi)
